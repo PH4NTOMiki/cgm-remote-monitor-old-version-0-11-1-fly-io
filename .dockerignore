@@ -1,7 +1,6 @@
 # Don't include the .git history in the Docker image:
 .git
 
-
 # Items from .gitignore
 bower_components/
 node_modules/
