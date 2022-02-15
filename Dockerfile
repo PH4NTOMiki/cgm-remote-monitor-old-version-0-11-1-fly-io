@@ -1,7 +1,6 @@
 FROM node:10.14.1
 
 MAINTAINER Nightscout Contributors
-
 RUN apt-get update && \
   apt-get -y dist-upgrade
 
